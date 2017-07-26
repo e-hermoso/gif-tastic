@@ -1,0 +1,27 @@
+body{
+  background-color: #7C7F83;
+}
+#title{
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  background-color: #232D36;
+  text-align: center;
+  color: #FCFBFB;
+}
+#animal-form{
+  position: relative;
+  background-color: #5C534A;
+  font-size: 25px;
+}
+#label{
+color: #FCFBFB;
+}
+#addAnimal{
+  color: #FCFBFB;
+  background-color: #232D36;
+  margin-bottom: 3%;
+}
+p{
+    font-size: 18px;
+    font-weight: bold;
+}
